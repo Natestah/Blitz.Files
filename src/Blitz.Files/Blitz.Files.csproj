@@ -13,6 +13,8 @@
         <PackageReleaseNotes>First release</PackageReleaseNotes>
         <PackageReadmeFile>readme.md</PackageReadmeFile>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageProjectUrl>https://natestah.com</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/natestah/blitz.files</RepositoryUrl>
 
     </PropertyGroup>
 
